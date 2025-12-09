@@ -1,0 +1,29 @@
+1. Exploratory Data Analysis (EDA)
+A technique used to analyze and summarize datasets to uncover patterns, detect outliers, test hypotheses, and check assumptions using visualizations and descriptive statistics.
+
+2. Data Cleaning
+The process of identifying and correcting errors or inconsistencies in data, such as missing values, duplicates, and incorrect formatting, to improve data quality before analysis.
+
+3. Feature Engineering
+The process of creating new input features from existing data to improve model performance. This includes transformations like scaling, encoding categorical variables, and generating interaction terms.
+
+4. Dimensionality Reduction
+A technique used to reduce the number of input variables in a dataset while retaining important information. Common methods include Principal Component Analysis (PCA) and t-SNE.
+
+5. Classification
+A supervised learning technique used to predict categorical labels. Examples include predicting whether an email is spam or not, or if a tumor is malignant or benign.
+
+6. Regression
+Another supervised learning method used to predict continuous values. For example, predicting house prices based on features like location, size, and number of bedrooms.
+
+7. Clustering
+An unsupervised learning technique used to group similar data points together based on their characteristics. Common algorithms include K-Means and DBSCAN.
+
+8. Natural Language Processing (NLP)
+A set of techniques that enable computers to understand, interpret, and generate human language. Tasks include text classification, sentiment analysis, and machine translation.
+
+9. Time Series Analysis
+Techniques used to analyze sequential data points collected over time. Common uses include forecasting sales, stock prices, or temperature using models like ARIMA or LSTM.
+
+10. Model Evaluation
+A method to assess the performance of a machine learning model using metrics like accuracy, precision, recall, F1-score, or RMSE, depending on the problem type.

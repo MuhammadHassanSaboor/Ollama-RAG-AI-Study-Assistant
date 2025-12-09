@@ -1,0 +1,87 @@
+Descriptive Statistics
+
+Mean: The average of a dataset, sum of values divided by the number of values.
+
+Median: The middle value when data is arranged in order.
+
+Mode: The most frequently occurring value in a dataset.
+
+Range: Difference between the maximum and minimum values.
+
+Variance: Measure of how data points deviate from the mean.
+
+Standard Deviation: The square root of variance; measures spread of data.
+
+Quartiles: Values that divide the dataset into four equal parts.
+
+Interquartile Range (IQR): Difference between the 3rd and 1st quartiles.
+
+Skewness: Measure of asymmetry in a data distribution.
+
+Kurtosis: Measure of the "tailedness" of a data distribution.
+
+Probability & Distributions
+
+Probability Distribution: Function that assigns probabilities to possible outcomes.
+
+Binomial Distribution: Probability distribution of successes in fixed trials.
+
+Poisson Distribution: Models the number of events in a fixed interval.
+
+Normal Distribution: Symmetrical, bell-shaped distribution of continuous data.
+
+Uniform Distribution: All outcomes have equal probability.
+
+Exponential Distribution: Models the time between events in a Poisson process.
+
+Cumulative Distribution Function (CDF): Probability that a variable is less than or equal to a value.
+
+Probability Mass Function (PMF): Probability function for discrete variables.
+
+Probability Density Function (PDF): Probability function for continuous variables.
+
+Central Limit Theorem: Distribution of sample means approaches normal as sample size increases.
+
+Inferential Statistics
+
+Hypothesis Testing: Testing assumptions about a population parameter.
+
+Null Hypothesis (H0): The default assumption that there is no effect or difference.
+
+Alternative Hypothesis (H1): The assumption that there is an effect or difference.
+
+p-value: Probability of observing the data if H0 is true.
+
+Confidence Interval: Range of values likely to contain a population parameter.
+
+t-Test: Compares means between two groups.
+
+ANOVA (Analysis of Variance): Compares means across three or more groups.
+
+Chi-Square Test: Tests relationship between categorical variables.
+
+Correlation Analysis: Measures strength and direction of a linear relationship.
+
+Regression Analysis: Models the relationship between dependent and independent variables.
+
+Advanced & Multivariate Techniques
+
+Multiple Regression: Regression with multiple independent variables.
+
+Logistic Regression: Models binary outcome variables.
+
+Principal Component Analysis (PCA): Reduces dimensionality of data while preserving variance.
+
+Factor Analysis: Identifies latent variables that explain observed correlations.
+
+Cluster Analysis: Groups data points based on similarity.
+
+Time Series Analysis: Analysis of data points collected over time.
+
+Autoregressive (AR) Models: Time series models that predict future values using past values.
+
+Moving Average (MA) Models: Smooths time series data to identify trends.
+
+Survival Analysis: Analysis of time-to-event data.
+
+Bayesian Statistics: Updates probability estimates using prior knowledge and new data.

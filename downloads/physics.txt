@@ -1,0 +1,89 @@
+Classical Mechanics
+
+Newton’s Laws of Motion: Principles describing the relationship between forces and motion.
+
+Free Body Diagram (FBD): Graphical representation of forces acting on a body.
+
+Projectile Motion Analysis: Studying motion of objects under gravity in two dimensions.
+
+Conservation of Energy: Total energy (kinetic + potential) in an isolated system remains constant.
+
+Conservation of Momentum: Momentum of a closed system remains constant unless acted on by external forces.
+
+Impulse-Momentum Theorem: Change in momentum equals applied impulse.
+
+Circular Motion Analysis: Studying objects moving along circular paths using centripetal force.
+
+Work-Energy Theorem: Work done on a body equals change in kinetic energy.
+
+Rotational Dynamics: Studying motion of rotating bodies using torque and moment of inertia.
+
+Harmonic Motion: Analysis of systems oscillating back and forth, e.g., springs or pendulums.
+
+Electromagnetism
+
+Coulomb’s Law: Computes electric force between point charges.
+
+Electric Field Calculation: Determining field strength at a point due to charges.
+
+Gauss’s Law: Relates electric flux through a surface to the charge enclosed.
+
+Kirchhoff’s Laws: Rules for current and voltage distribution in circuits.
+
+Ohm’s Law: Voltage across a resistor is proportional to current.
+
+Capacitance & Energy Storage: Analysis of capacitors and stored electrical energy.
+
+Magnetic Field Calculations: Finding the field due to current-carrying wires.
+
+Faraday’s Law of Induction: Induced emf in a circuit due to changing magnetic flux.
+
+Lenz’s Law: Direction of induced current opposes the change causing it.
+
+AC Circuit Analysis: Studying alternating current using reactance and impedance.
+
+Thermodynamics
+
+Laws of Thermodynamics: Rules governing energy, work, heat, and entropy.
+
+Heat Transfer Methods: Conduction, convection, and radiation analysis.
+
+Ideal Gas Law: Relationship between pressure, volume, and temperature of gases.
+
+Work in Thermodynamic Processes: Calculating work done during expansion or compression.
+
+Entropy Calculation: Measure of disorder or randomness in a system.
+
+Carnot Cycle Analysis: Efficiency of an ideal heat engine.
+
+Specific Heat Calculations: Energy required to raise temperature of a substance.
+
+Phase Change Analysis: Energy changes during melting, boiling, or condensation.
+
+Adiabatic Process Analysis: Thermodynamic process with no heat exchange.
+
+Isothermal Process Analysis: Thermodynamic process with constant temperature.
+
+Optics & Waves
+
+Snell’s Law: Relationship between angles of incidence and refraction.
+
+Lens & Mirror Equations: Determining image position and size using focal lengths.
+
+Interference Analysis: Constructive and destructive interference of waves.
+
+Diffraction Analysis: Studying bending of waves around obstacles.
+
+Doppler Effect Calculations: Frequency change due to relative motion of source and observer.
+
+Standing Waves Analysis: Patterns formed in strings or air columns due to reflection.
+
+Polarization Techniques: Analysis of light waves vibrating in specific planes.
+
+Wave Superposition Principle: Combination of multiple waves to form a resultant wave.
+
+Modern & Quantum Physics
+
+Photoelectric Effect Calculations: Determining electron emission due to incident light.
+
+Quantum Tunneling Analysis: Probability of particles passing through potential barriers.

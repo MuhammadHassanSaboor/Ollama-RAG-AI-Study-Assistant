@@ -1,0 +1,99 @@
+Algebra & Number Theory
+
+Factoring: Breaking a number or expression into a product of simpler elements.
+
+Completing the Square: Rewriting a quadratic expression as a perfect square trinomial.
+
+Synthetic Division: A shortcut method to divide polynomials by linear expressions.
+
+Partial Fractions: Decomposing a rational function into a sum of simpler fractions.
+
+Modular Arithmetic: Calculations where numbers "wrap around" after reaching a certain value.
+
+Exponentiation Rules: Techniques for simplifying expressions involving powers.
+
+Logarithmic Techniques: Converting multiplicative relationships into additive ones using logarithms.
+
+Induction: Proving statements for all natural numbers by proving the base case and inductive step.
+
+Diophantine Equations: Finding integer solutions to polynomial equations.
+
+Calculus & Analysis
+
+Differentiation: Computing the rate of change of a function with respect to a variable.
+
+Integration: Finding the area under a curve or the antiderivative of a function.
+
+Partial Derivatives: Calculating derivatives of functions with multiple variables.
+
+Chain Rule: Differentiating a composition of functions.
+
+Product Rule: Differentiating a product of two functions.
+
+Quotient Rule: Differentiating a ratio of two functions.
+
+Taylor Series Expansion: Approximating functions as an infinite sum of derivatives at a point.
+
+L’Hospital’s Rule: Finding limits of indeterminate forms like 
+0
+/
+0
+0/0 or 
+∞
+/
+∞
+∞/∞.
+
+Integration by Parts: Technique for integrating products of functions.
+
+Substitution Method: Simplifying integrals by changing variables.
+
+Linear Algebra & Matrices
+
+Gaussian Elimination: Solving systems of linear equations by transforming the matrix to row-echelon form.
+
+Matrix Inversion: Finding a matrix that, when multiplied by the original, gives the identity matrix.
+
+Determinant Calculation: Computing a scalar value representing matrix properties like invertibility.
+
+Eigenvalues & Eigenvectors: Determining scalars and vectors that satisfy 
+𝐴
+𝑣
+=
+𝜆
+𝑣
+Av=λv.
+
+Diagonalization: Representing a matrix as a product of its eigenvectors and eigenvalues.
+
+Vector Projection: Projecting one vector onto another.
+
+Dot Product: Measuring the similarity of two vectors in Euclidean space.
+
+Cross Product: Calculating a vector perpendicular to two given vectors.
+
+Gram-Schmidt Process: Orthogonalizing a set of vectors.
+
+Singular Value Decomposition (SVD): Factorizing a matrix into orthogonal matrices and a diagonal matrix.
+
+Probability & Statistics
+
+Permutation: Counting arrangements where order matters.
+
+Combination: Counting selections where order doesn’t matter.
+
+Bayes’ Theorem: Updating probabilities based on new evidence.
+
+Expected Value: Calculating the mean outcome of a random variable.
+
+Variance & Standard Deviation: Measuring spread or dispersion in data.
+
+Hypothesis Testing: Determining if a claim about data is statistically valid.
+
+Correlation Coefficient: Measuring the linear relationship between two variables.
+
+Regression Analysis: Modeling relationships between dependent and independent variables.
+
+Markov Chains: Analyzing processes with memoryless probabilistic transitions.
+
+Monte Carlo Simulation: Using random sampling to approximate solutions to mathematical problems.
