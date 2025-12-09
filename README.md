@@ -71,7 +71,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## AI-Study-Assistant/
-DSTT-Term-Project/
+Project/
 -  app.py # Main Streamlit app
 -  automatic_quiz.py # Auto Quiz Generator page
 -  explore_lectures.py # Explore Lectures page
@@ -111,5 +111,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
